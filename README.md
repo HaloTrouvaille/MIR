@@ -7,7 +7,7 @@ Controlled sampling of memories for replay: retrieving the samples which are mos
 * [video](https://www.youtube.com/watch?v=wfb9UV_n8jg)
 
 ## (key) Requirements 
-- Python 3.6
+- Python 3.6.ssssss
 - Pytorch 1.1.0
 
 `pip install -r requirements.txt`
